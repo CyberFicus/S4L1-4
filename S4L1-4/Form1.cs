@@ -28,7 +28,6 @@ namespace S4L1_4
                         if (buf == S[k])
                         {
                             textBox1.Text += $"{j}^2 + {k}^2 = {i}^2 \r\n";
-                            //std::cout << j << "^2 + " << k << "^2 = " << i << "^2\n";
                         }
                         else
                         {
